@@ -10,4 +10,4 @@
 		<p>Sebnem Gun</p>
 	</body>
 </html>
-https://github.com/sebnemgun/myfirsthelloworld.git
+In the website design course, I aim to be able to design a website by myself by learning all the essential information.
